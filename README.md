@@ -10,7 +10,7 @@ I build agentic AI systems, data quality frameworks, and ML-driven decision tool
 
 | Domain | What It Looks Like |
 |--------|-------------------|
-| **Agentic AI Systems** | LangGraph state machines that automate multi-step workflows -- discovery, validation, scoring, publishing -- with deterministic rule engines and zero-silent-failure guarantees |
+| **Agentic AI Systems** | LangGraph state machines that automate multi-step workflows (discovery, validation, scoring, publishing) with deterministic rule engines and zero-silent-failure guarantees |
 | **Data Quality Frameworks** | Multi-layer validation pipelines that check domain-specific data completeness at scale: API integration, deterministic rules, confidence scoring, and structured reporting |
 | **ML Decision Systems** | Config-driven scoring engines with fatal flaw screening, multi-signal component scoring, and full provenance chains from raw inputs to final score |
 | **BI and Reporting Components** | Cloud-backed data stores, dashboard integrations, GraphQL publishing clients, and automated run reports with versioned output schemas |
@@ -21,10 +21,9 @@ I build agentic AI systems, data quality frameworks, and ML-driven decision tool
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [QC Automation Agent](https://github.com/robert-blue-datascience/qc-automation-agent-showcase) | LangGraph-orchestrated agent that runs 30 deterministic QC checks per well, scores operator portfolios, and publishes results via GraphQL. 899 tests passing. Production-hardened with startup security gate, token-bucket rate limiting, and structured audit logging. | Python, LangGraph, httpx, Supabase, GraphQL |
-| [Land Value Intelligence Network](https://github.com/robert-blue-datascience/lvin-architecture-showcase) | Multi-source parcel scoring system for energy infrastructure site selection. Three-layer pipeline (fatal flaw screen, component scoring, composition) with YAML-driven profiles, six data connectors, and full provenance chains to every score. | Python, Pydantic, YAML, Geospatial APIs |
-| [Contact Intelligence Pipeline](https://github.com/robert-blue-datascience/contact-intelligence-showcase) | Source-agnostic contact registry with a three-layer normalization pipeline, confidence-tiered routing, and a correction ledger for audit-grade override tracking. Designed to close the loop from data gap detection to recovery action. | Python, SQLite, LLM-at-edges, GraphQL |
-| [AI Dev Workflow](https://github.com/robert-blue-datascience/ai-dev-workflow-showcase) | Three-tool role separation methodology (Claude.ai architect / Claude Code implementer / Gemini reviewer) with a 5-layer quality gate, comprehension gate, and automated security toolchain. Documents the engineering process behind all four projects above. | Claude Code, Gemini, Methodology |
+| [QC Automation Agent](https://github.com/robert-blue-datascience/qc-automation-agent-showcase) | LangGraph-orchestrated agent that runs 30 deterministic QC checks per asset, scores operator portfolios, and publishes results via GraphQL. 800+ tests passing. Production-hardened with startup security gate, rate limiting, and structured audit logging. | Python, LangGraph, httpx, GraphQL |
+| [Contact Intelligence Pipeline](https://github.com/robert-blue-datascience/contact-intelligence-showcase) | Source-agnostic contact registry with a three-layer normalization pipeline, confidence-tiered routing, and a correction ledger for audit-grade override tracking. Designed to close the loop from data gap detection to recovery action. | Python, SQLite/PostgreSQL, LLM-at-edges, GraphQL |
+| [AI Dev Workflow](https://github.com/robert-blue-datascience/ai-dev-workflow-showcase) | Three-tool role separation methodology (Claude.ai architect / Claude Code implementer / Gemini reviewer) with a 5-layer quality gate, comprehension gate, and automated security toolchain. Documents the engineering process behind all projects above. | Claude Code, Gemini, Methodology |
 
 ---
 
@@ -45,11 +44,10 @@ I build agentic AI systems, data quality frameworks, and ML-driven decision tool
 
 ---
 
-## Education and Certifications
+## Education
 
-<!-- Add your credentials here -->
-- B.S. [Field], [University]
-- [Certification, Issuing Body, Year]
+- M.S. Data Science, Southern Methodist University
+- B.S. (update field), (update university)
 
 ---
 
