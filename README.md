@@ -47,7 +47,7 @@ I build agentic AI systems, data quality frameworks, and ML-driven decision tool
 ## Education
 
 - M.S. Data Science, Southern Methodist University
-- B.S. (update field), (update university)
+- B.S. General Studies, Louisiana State University
 
 ---
 
