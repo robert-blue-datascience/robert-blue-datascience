@@ -49,8 +49,6 @@ I bring a methodology, not just skills. Two frameworks define how I work:
 | **SPE / DSATS** | Active member and speaker. Drilling Systems Automation Technical Section. |
 | **IADC** | Invited speaker (as an independent, not representing a corporate brand). |
 | **PPDM** | Active member. Professional Petroleum Data Management. |
-| **URTeC 2026** | Two submitted research abstracts on data quality foundations for trustworthy AI. |
-
 ---
 
 ## Tech Stack
